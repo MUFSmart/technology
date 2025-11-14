@@ -9061,11 +9061,11 @@ total= 164 669.3333333
 =========================================================================================
 UEFA Europa League
 
-Общий этап 
+
 Manchester United  1:1	Twente
 Attendance: 73 069=36534.5
 
-Порту 	3:3	Manchester United
+Porto	3:3	Manchester United
 Attendance: 49 211:2=24605.5	
 
 Fenerbahce	1:1	Manchester United
@@ -9096,7 +9096,7 @@ Attendance: 73 189
 Olympique Lyon	2:2	Manchester United
 Attendance:58 018=25009
 
-Manchester United	5:4 (доп. вр.)	Olympique Lyon
+Manchester United	5:4 	Olympique Lyon
 Attendance: 73 228
 
 
@@ -9135,5 +9135,6 @@ total=693 297.3333
 
 
     
+
 
 
